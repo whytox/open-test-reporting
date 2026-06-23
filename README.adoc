@@ -305,6 +305,10 @@ image::documentation/html-report-successful.png[]
 image::documentation/html-report-failed.png[]
 --
 
+[#maven-plugin]
+==== Maven plugin
+
+A maven plugin (folder /maven-plugin) named open-test-reporting-maven-plugin is currently WIP.
 
 [#html-report-extension]
 ===== Extending the HTML report
